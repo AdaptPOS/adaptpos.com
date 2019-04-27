@@ -12,7 +12,7 @@ theme = "site"
   facebook = "AdaptPOS"
 
   enableRSS = true
-  enableTOC = true
+  enableTOC = false
 
   enableSummary = true
   useDescriptionReplaceSummary = true
