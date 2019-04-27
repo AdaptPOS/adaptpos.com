@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "AdaptPOS - Android EMV Solutions & Gift Card Services"
+googleAnalytics = ""
+theme = "site"
+
+[params]
+  Author = "Midnight Oil Systems, LLC"
+  Description = "The official website for the AdaptPOS.  Midnight Oil Systems, LLC d.b.a AdaptPOS is located in Denver, CO and services the USA, Canada, Mexico and other countries."
+
+  twitter = "AdaptPOS"
+  facebook = "AdaptPOS"
+
+  enableRSS = true
+  enableTOC = true
+
+  enableSummary = true
+  useDescriptionReplaceSummary = true
+
+  enableGoogleAnalytics = true
+
+  customCss = [ "/css/site.css" ]
+  customJs = []
+
+[social]
+  facebook = "https://www.facebook.com/adaptpos"
+  twitter = "https://www.twitter.com/adaptpos"
+  github = "https://www.github.com/adaptpos"
+
+[Footer.Links]
+  "Privacy Policy" = "/privacy"
