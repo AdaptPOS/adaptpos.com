@@ -22,13 +22,18 @@ theme = "site"
   customCss = [ "/css/site.css" ]
   customJs = []
 
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+  socialIconStyle = "rounded"
+
+[params.nav]
+  "AdaptPAY" = "/adaptpay/"
+  "Pay-at-Table" = "/adaptpay/"
+  "Gift Cards" = "/adaptgift/"
+  
 [social]
   facebook = "https://www.facebook.com/adaptpos"
   twitter = "https://www.twitter.com/adaptpos"
   github = "https://www.github.com/adaptpos"
 
-[Params.HeaderNav]
-  "AdaptPAY Terminals" = "/adaptpay/"
-  "Pay-at-Table" = "/adaptpay/"
-  "Gift Card Solutions" = "/adaptgift/"
-  "Developers" = "/developers/sdk"

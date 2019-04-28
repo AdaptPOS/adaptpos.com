@@ -5,7 +5,7 @@ draft: false
 hidden: false
 ---
 
-__Midnight Oil Systems LLC dba AdaptPOS Service Agreement__
+__Midnight Oil Systems LLC (AdaptPOS) Service Agreement__
 
 __DEFINITIONS.__
 
