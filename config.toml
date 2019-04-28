@@ -26,3 +26,9 @@ theme = "site"
   facebook = "https://www.facebook.com/adaptpos"
   twitter = "https://www.twitter.com/adaptpos"
   github = "https://www.github.com/adaptpos"
+
+[Params.HeaderNav]
+  "AdaptPAY Terminals" = "/adaptpay/"
+  "Pay-at-Table" = "/adaptpay/"
+  "Gift Card Solutions" = "/adaptgift/"
+  "Developers" = "/developers/sdk"
