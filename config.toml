@@ -2,7 +2,6 @@ baseURL = "https://beta.adaptpos.com/"
 languageCode = "en-us"
 title = "AdaptPOS - Android EMV Solutions & Gift Card Services"
 googleAnalytics = ""
-theme = "site"
 
 [params]
   Author = "Midnight Oil Systems, LLC"
