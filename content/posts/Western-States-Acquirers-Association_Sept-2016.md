@@ -1,7 +1,8 @@
 ---
 title: "Western States Acquirer's Association - 2016"
-date: 2016-08-31T04:00:00-04:00
-draft: true
+date: 2016-09-14T04:00:00-04:00
+draft: false
+author: "Todd Brokenshire"
 ---
 
 [www.westernstateacquirers.com](http://www.westernstateacquirers.com/)

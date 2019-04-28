@@ -1,7 +1,8 @@
 ---
 title: "Southeast Acquirer's Association - 2017"
-date: 2019-08-31T04:00:00-04:00
-draft: true
+date: 2017-03-15T04:00:00-04:00
+draft: false
+author: "Todd Brokenshire"
 ---
 
 [www.southeastacquirers.com](http://www.southeastacquirers.com/)

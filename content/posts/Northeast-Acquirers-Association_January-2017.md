@@ -1,7 +1,8 @@
 ---
 title: "Northeast Acquirer's Association 2017"
-date: 2016-08-31T04:00:00-04:00
-draft: true
+date: 2017-01-15T04:00:00-04:00
+draft: false
+author: "Todd Brokenshire"
 ---
 
 [www.northeastacquirers.com](http://www.northeastacquirers.com/)

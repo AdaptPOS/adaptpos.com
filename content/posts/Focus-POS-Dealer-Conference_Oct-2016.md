@@ -1,7 +1,8 @@
 ---
 title: "FocusPOS Dealer Conference 2016"
-date: 2016-10-11T04:00:00-04:00
-draft: true
+date: 2016-10-10T04:00:00-04:00
+draft: false
+author: "Todd Brokenshire"
 ---
 
 ## Date ##

@@ -26,6 +26,3 @@ theme = "site"
   facebook = "https://www.facebook.com/adaptpos"
   twitter = "https://www.twitter.com/adaptpos"
   github = "https://www.github.com/adaptpos"
-
-[Footer.Links]
-  "Privacy Policy" = "/privacy"
