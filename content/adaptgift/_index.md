@@ -5,4 +5,4 @@ draft: false
 hidden: false
 ---
 ## Adapt Gift ##
-### Hosted Gift Cards for Dinerware, Termials, and whatever life brings you. ###
+### Hosted Gift Cards for Dinerware, Terminals, and whatever life brings you. ###
