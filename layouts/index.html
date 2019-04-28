@@ -137,7 +137,26 @@
                         Latest News/Stories
                     </div>
                     <div class="card-body">
-                        Blargh!
+                        <ul class="list-unstyled">
+                            {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+                            {{ template "_internal/pagination.html" . }}
+                            {{ range $paginator.Pages }}
+                            <li>
+                                <a href='{{ .Permalink }}'>
+                                    {{ .Title }}
+                                </a>
+                                <aside class="dates">{{ .Date.Format "Jan 2" }} - {{ .Params.Author }}</aside>
+                                {{ if .Site.Params.enableSummary }}
+                                {{ if .Site.Params.useDescriptionReplaceSummary }}
+                                <h2>{{ .Description | plainify }}</h2>
+                                {{ else }}
+                                <h2>{{ .Summary | plainify | htmlUnescape }}</h2>
+                                {{ end }}
+                                {{ end }}
+                                </a>
+                            </li>
+                            {{ end }}
+                        </ul>
                     </div>
                 </div>
             </div>
