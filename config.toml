@@ -27,9 +27,10 @@ googleAnalytics = ""
   socialIconStyle = "rounded"
 
 [params.nav]
-  "Android EMV Devices" = "/emv-devices/"
   "AdaptPAY" = "/adaptpay/"
+  "Android EMV Devices" = "/emv-devices/"
   "Gift Cards" = "/adaptgift/"
+  "Q & A" = "/company/faq/"
   
 [social]
   facebook = "https://www.facebook.com/adaptpos"
