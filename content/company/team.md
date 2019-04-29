@@ -52,4 +52,44 @@ We aim to partner with many POS software to enable them a wide, easy adoption of
     </div>
   </div>
   </div>
+</div> <br />
+<div class="row">
+  <div class="col-4">
+  <div class="card" style="width: 18rem;">
+    <img src="/img/company/personnel/david_christiansen.jpg" class="card-img-top" alt="Aja Fear">
+    <div class="card-body">
+      <h5 class="card-title">David Christiansen</h5>
+      <p class="card-text">Consultant / Systems Engineer</p>
+    </div>
+  </div>
+  </div>
+  <div class="col-4">
+  <div class="card" style="width: 18rem;">
+    <img src="/img/company/personnel/aja_fear.jpg" class="card-img-top" alt="Aja Fear">
+    <div class="card-body">
+      <h5 class="card-title">Adam Goslin</h5>
+      <p class="card-text">Consultant / [TBD]</p>
+    </div>
+  </div>
+  </div>
+  <div class="col-4">
+  <div class="card" style="width: 18rem;">
+    <img src="/img/company/personnel/aja_fear.jpg" class="card-img-top" alt="Aja Fear">
+    <div class="card-body">
+      <h5 class="card-title">James Voight</h5>
+      <p class="card-text">Consultant / [TBD]</p>
+    </div>
+  </div>
+  </div>
+</div> <br />
+<div class="row">
+  <div class="col-4">
+  <div class="card" style="width: 18rem;">
+    <img src="/img/company/personnel/aja_fear.jpg" class="card-img-top" alt="Aja Fear">
+    <div class="card-body">
+      <h5 class="card-title">Wayne Varga</h5>
+      <p class="card-text">Consultant / [TBD]</p>
+    </div>
+  </div>
+  </div>
 </div>
